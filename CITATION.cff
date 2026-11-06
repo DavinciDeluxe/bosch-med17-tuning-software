@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch MED17 ECU Calibration Software — Tricore direct-injection turbo-petrol & marine ECU (MED17.5, MED17.1, MED17.7 AMG, MED17.4 THP) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-med17-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-med17-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
