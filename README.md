@@ -1,10 +1,10 @@
-# Bosch MED17 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch MED17 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20MED17-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-med17-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-med17-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-med17-tuning-software)
 
-**Bosch MED17** is Tricore direct-injection turbo petrol & Mercury Verado marine ECU family (VAG TSI, Mercedes, PSA, Mini). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MED17 readouts**.
+**Bosch MED17** is Tricore direct-injection turbo petrol & Mercury Verado marine ECU family (VAG TSI, Mercedes, PSA, Mini). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch MED17 readouts**.
 
 ## 📊 Live Bosch MED17 Variants Covered Across Brands
 
