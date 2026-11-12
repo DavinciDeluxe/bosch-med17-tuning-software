@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-med17-tuning-software",
     "https://www.aesoftech.eu/bosch-med17-tuning-software"
   ],
-  "matched_variants_count": 436,
+  "matched_variants_count": 430,
   "brands": {
     "BMW": [
       "MED17.1",
@@ -23,10 +23,9 @@
     "MINI": [
       "MED17.1",
       "MED17.1.1",
-      "MED17.2",
       "MED17.2.2",
       "MED17.2.7",
-      "MED172_MEV172",
+      "MED172-MEV172",
       "MED17X-MEV17X"
     ],
     "FIAT": [
@@ -158,8 +157,7 @@
       "MED17.7.5",
       "MED17.7.6",
       "MED17.7.7",
-      "MED17.7.X",
-      "MED17.7.X (SW: 10SW039623)"
+      "MED17.7.X"
     ],
     "SMART": [
       "MED17.1.6X",
@@ -177,8 +175,7 @@
       "MED17.7.5",
       "MED17.7.6",
       "MED17.7.7",
-      "MED17.7.X",
-      "MED17.7.X (SW: 10SW039623)"
+      "MED17.7.X"
     ],
     "MAYBACH": [
       "MED17.1.6X",
@@ -196,8 +193,7 @@
       "MED17.7.5",
       "MED17.7.6",
       "MED17.7.7",
-      "MED17.7.X",
-      "MED17.7.X (SW: 10SW039623)"
+      "MED17.7.X"
     ],
     "OPEL": [
       "MED17.5.25"
@@ -205,10 +201,10 @@
     "PEUGEOT": [
       "MED17.1.6X",
       "MED17.4",
+      "MED17.4.2",
       "MED17.4.4",
       "MED17.4.X",
-      "MED17.5.1",
-      "MED17_4_2"
+      "MED17.5.1"
     ],
     "CITROËN": [
       "MED17.4",
@@ -216,14 +212,14 @@
       "MED17.4.4",
       "MED17.4.X",
       "MED17.5.1",
-      "MED174_MEV174"
+      "MED174MEV174"
     ],
     "DS": [
       "MED17.4",
+      "MED17.4.2",
       "MED17.4.4",
       "MED17.4.X",
-      "MED17.5.1",
-      "MED17_4_2"
+      "MED17.5.1"
     ],
     "SUZUKI": [
       "MED17.9.51",
@@ -250,7 +246,6 @@
       "MED17.5.20",
       "MED17.5.20-26",
       "MED17.5.21",
-      "MED17.5.21_25_26",
       "MED17.5.22",
       "MED17.5.24",
       "MED17.5.25",
@@ -291,7 +286,6 @@
       "MED17.5.5",
       "MED17.5.53",
       "MED17.5.X",
-      "MED17.5_CAN",
       "MED17.6.9",
       "MED17.7",
       "MED17.7.1",
