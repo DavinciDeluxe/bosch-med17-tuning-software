@@ -30,7 +30,6 @@
 | **JEEP** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
 | **ABARTH** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
 | **CHRYSLER** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
-| **RAM** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
 | **FORD** | 6 | `MED17.0`, `MED17.0.1`, `MED17.0.7`, `MED17.1.6X`, `MED17.2`, `MED17.2.2` |
 | **PEUGEOT** | 6 | `MED17.1.6X`, `MED17.4`, `MED17.4.2`, `MED17.4.4`, `MED17.4.X`, `MED17.5.1` |
 | **CITROËN** | 6 | `MED17.4`, `MED17.4.2`, `MED17.4.4`, `MED17.4.X`, `MED17.5.1`, `MED174MEV174` |
@@ -40,6 +39,7 @@
 | **BMW** | 4 | `MED17.1`, `MED17.1.1`, `MED17.2`, `MED17.2.2` |
 | **MASERATI** | 3 | `MED17.3.4`, `MED17.3.X`, `MED17.6.9` |
 | **SUZUKI** | 3 | `MED17.9.51`, `MED17.9.63`, `MED17.9.66` |
+| **VOLVO** | 3 | `MED17.0`, `MED17.1.6X`, `MED17.1.9` |
 
 👉 **[Open the full Bosch MED17 guide & test your file free at https://www.davincideluxe.fr/bosch-med17-tuning-software →](https://www.davincideluxe.fr/bosch-med17-tuning-software)**
 
