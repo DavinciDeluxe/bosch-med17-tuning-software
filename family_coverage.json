@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-med17-tuning-software",
     "https://www.aesoftech.eu/bosch-med17-tuning-software"
   ],
-  "matched_variants_count": 437,
+  "matched_variants_count": 431,
   "brands": {
     "BMW": [
       "MED17.1",
@@ -71,14 +71,6 @@
       "MED17.6.9"
     ],
     "CHRYSLER": [
-      "MED17.3",
-      "MED17.3.0",
-      "MED17.3.1",
-      "MED17.3.30",
-      "MED17.3.5",
-      "MED17.6.9"
-    ],
-    "RAM": [
       "MED17.3",
       "MED17.3.0",
       "MED17.3.1",
