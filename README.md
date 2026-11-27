@@ -10,14 +10,14 @@
 
 | Brand | Bosch MED17 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **VOLKSWAGEN** | 33 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
 | **AUDI** | 33 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
-| **SKODA** | 33 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
 | **PORSCHE** | 33 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
-| **SEAT** | 32 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
+| **SKODA** | 33 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
+| **VOLKSWAGEN** | 33 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
+| **BENTLEY** | 32 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
 | **CUPRA** | 32 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
 | **LAMBORGHINI** | 32 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
-| **BENTLEY** | 32 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
+| **SEAT** | 32 | `MED17.1`, `MED17.1.1`, `MED17.1.10`, `MED17.1.11`, `MED17.1.15`, `MED17.1.2`, `MED17.1.21`, `MED17.1.27` … |
 | **MERCEDES-BENZ** | 16 | `MED17.1.6X`, `MED17.2`, `MED17.2.2`, `MED17.4`, `MED17.5.5`, `MED17.7`, `MED17.7.1-17.7.3`, `MED17.7.1.3` … |
 | **SMART** | 16 | `MED17.1.6X`, `MED17.2`, `MED17.2.2`, `MED17.4`, `MED17.5.5`, `MED17.7`, `MED17.7.1-17.7.3`, `MED17.7.1.3` … |
 | **MAYBACH** | 16 | `MED17.1.6X`, `MED17.2`, `MED17.2.2`, `MED17.4`, `MED17.5.5`, `MED17.7`, `MED17.7.1-17.7.3`, `MED17.7.1.3` … |
@@ -25,21 +25,21 @@
 | **LAND ROVER** | 10 | `MED17.0`, `MED17.1.9`, `MED17.2`, `MED17.5.4`, `MED17.8.3`, `MED17.8.31`, `MED17.8.32`, `MED17.8.3X` … |
 | **ALFA ROMEO** | 7 | `MED17.0.0`, `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
 | **LANCIA** | 7 | `MED17.0.0`, `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
-| **MINI** | 6 | `MED17.1`, `MED17.1.1`, `MED17.2.2`, `MED17.2.7`, `MED172-MEV172`, `MED17X-MEV17X` |
-| **FIAT** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
-| **JEEP** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
-| **ABARTH** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
-| **CHRYSLER** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
-| **FORD** | 6 | `MED17.0`, `MED17.0.1`, `MED17.0.7`, `MED17.1.6X`, `MED17.2`, `MED17.2.2` |
 | **PEUGEOT** | 6 | `MED17.1.6X`, `MED17.4`, `MED17.4.2`, `MED17.4.4`, `MED17.4.X`, `MED17.5.1` |
+| **ABARTH** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
+| **MINI** | 6 | `MED17.1`, `MED17.1.1`, `MED17.2.2`, `MED17.2.7`, `MED172-MEV172`, `MED17X-MEV17X` |
 | **CITROËN** | 6 | `MED17.4`, `MED17.4.2`, `MED17.4.4`, `MED17.4.X`, `MED17.5.1`, `MED174MEV174` |
+| **CHRYSLER** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
+| **JEEP** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
+| **FIAT** | 6 | `MED17.3`, `MED17.3.0`, `MED17.3.1`, `MED17.3.30`, `MED17.3.5`, `MED17.6.9` |
+| **FORD** | 6 | `MED17.0`, `MED17.0.1`, `MED17.0.7`, `MED17.1.6X`, `MED17.2`, `MED17.2.2` |
+| **DS** | 5 | `MED17.4`, `MED17.4.2`, `MED17.4.4`, `MED17.4.X`, `MED17.5.1` |
 | **HYUNDAI** | 5 | `MED17.1.4`, `MED17.9.11-12`, `MED17.9.21`, `MED17.9.2X`, `MED17.9.8` |
 | **KIA** | 5 | `MED17.1.4`, `MED17.9.11-12`, `MED17.9.21`, `MED17.9.2X`, `MED17.9.8` |
-| **DS** | 5 | `MED17.4`, `MED17.4.2`, `MED17.4.4`, `MED17.4.X`, `MED17.5.1` |
 | **BMW** | 4 | `MED17.1`, `MED17.1.1`, `MED17.2`, `MED17.2.2` |
+| **FERRARI** | 3 | `MED17.1.6X`, `MED17.3.5`, `MED17.6.9` |
 | **MASERATI** | 3 | `MED17.3.4`, `MED17.3.X`, `MED17.6.9` |
 | **SUZUKI** | 3 | `MED17.9.51`, `MED17.9.63`, `MED17.9.66` |
-| **VOLVO** | 3 | `MED17.0`, `MED17.1.6X`, `MED17.1.9` |
 
 👉 **[Open the full Bosch MED17 guide & test your file free at https://www.davincideluxe.fr/bosch-med17-tuning-software →](https://www.davincideluxe.fr/bosch-med17-tuning-software)**
 
